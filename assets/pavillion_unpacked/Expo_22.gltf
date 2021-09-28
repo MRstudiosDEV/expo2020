@@ -1,0 +1,10430 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for Autodesk Maya 2019.3.1 v20210811.2"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "transform1"
+    },
+    {
+      "children": [
+        2,
+        3,
+        475,
+        480
+      ],
+      "name": "new_2nd_fllor"
+    },
+    {
+      "mesh": 0,
+      "name": "Exteriors:CIRS_21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        37,
+        52,
+        55,
+        59,
+        295,
+        337,
+        338,
+        347,
+        348,
+        349,
+        350,
+        351,
+        472,
+        473,
+        474
+      ],
+      "name": "EXPO22"
+    },
+    {
+      "mesh": 1,
+      "name": "DOS_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 2,
+      "name": "Sofa_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 3,
+      "name": "Table_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 4,
+      "name": "Chair_D_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 5,
+      "name": "Tables_Big_22_new",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 5,
+      "translation": [
+        0.72162354,
+        0.115327671,
+        -7.67246
+      ],
+      "name": "Tables_Big_22_new1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "name": "Tables_small_22"
+    },
+    {
+      "mesh": 6,
+      "name": "Tables_small_22_instance",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 6,
+      "translation": [
+        2.525432,
+        0,
+        9.113344
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Tables_small_22_instance5",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 6,
+      "translation": [
+        2.525432,
+        0,
+        9.953485
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Tables_small_22_instance6",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 6,
+      "translation": [
+        2.525432,
+        0,
+        10.8480759
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Tables_small_22_instance7",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0,
+        0,
+        0.7467898
+      ],
+      "name": "Tables_small_22_instance8",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 7,
+      "name": "Tables_small_22_instance1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        1.84752679,
+        0,
+        0
+      ],
+      "name": "Tables_small_22_instance10",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.9237622,
+        0,
+        0
+      ],
+      "name": "Tables_small_22_instance9",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 8,
+      "name": "Tables_small_22_instance2",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "name": "Tables_small_22_instance11",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        0.233275756
+      ],
+      "name": "Tables_small_22_instance12",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        0.4665509
+      ],
+      "name": "Tables_small_22_instance13",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        0.699826658
+      ],
+      "name": "Tables_small_22_instance14",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        0.932073355
+      ],
+      "name": "Tables_small_22_instance15",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        1.1655786
+      ],
+      "name": "Tables_small_22_instance16",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        1.39967287
+      ],
+      "name": "Tables_small_22_instance17",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0,
+        0,
+        1.6329571
+      ],
+      "name": "Tables_small_22_instance18",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        1.6329571
+      ],
+      "name": "Tables_small_22_instance19",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        1.39967287
+      ],
+      "name": "Tables_small_22_instance20",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        1.1655786
+      ],
+      "name": "Tables_small_22_instance21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        0.932073355
+      ],
+      "name": "Tables_small_22_instance22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        0.699826658
+      ],
+      "name": "Tables_small_22_instance23",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        0.4665509
+      ],
+      "name": "Tables_small_22_instance24",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        0.233275756
+      ],
+      "name": "Tables_small_22_instance25",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.232272938,
+        0,
+        0
+      ],
+      "name": "Tables_small_22_instance26",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 10,
+      "name": "Tables_small_22_instance4",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "name": "WheelChairs_22_new"
+    },
+    {
+      "mesh": 11,
+      "name": "WheelChair11",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        -1.01002932,
+        0,
+        0
+      ],
+      "name": "WheelChair15",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        13.2049932,
+        0,
+        5.863877
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "WheelChair16",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        10.2380133,
+        -0.00127960206,
+        18.2620239
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "WheelChair17",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        9.754929,
+        -0.00127960206,
+        9.878812
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "WheelChair18",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        9.4172945,
+        -0.00127960206,
+        9.878812
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "WheelChair19",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        7.210807,
+        -0.00127960206,
+        9.878812
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "WheelChair20",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        6.87317228,
+        -0.00127960206,
+        9.878812
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "WheelChair21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        14.119463,
+        -0.00127960206,
+        -9.874551
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "WheelChair22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        14.119463,
+        -0.00127960206,
+        -10.21412
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "WheelChair23",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        12.012516,
+        -0.00127960206,
+        -12.8775778
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "WheelChair24",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        12.012516,
+        -0.00127960206,
+        -13.2171478
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "WheelChair25",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        0.638950169,
+        -0.00384551985,
+        9.010529
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "WheelChair26",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 11,
+      "translation": [
+        -8.772305,
+        0.11448852,
+        -18.649992
+      ],
+      "name": "WheelChair27",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        53,
+        54
+      ],
+      "name": "Sofa_23"
+    },
+    {
+      "mesh": 12,
+      "name": "Sofa",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 12,
+      "translation": [
+        -0.9319328,
+        0,
+        3.140581
+      ],
+      "rotation": [
+        0,
+        0.333806872,
+        0,
+        0.9426415
+      ],
+      "name": "Sofa1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        56,
+        57,
+        58
+      ],
+      "name": "ArmChairs_22_new"
+    },
+    {
+      "mesh": 13,
+      "name": "ArmChair3",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 13,
+      "translation": [
+        0,
+        0,
+        -0.8933343
+      ],
+      "name": "ArmChair6",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 13,
+      "translation": [
+        0,
+        0,
+        -1.73679924
+      ],
+      "name": "ArmChair7",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294
+      ],
+      "translation": [
+        0,
+        0,
+        0.773754954
+      ],
+      "name": "Chairs_A_22_new"
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -0.773754954
+      ],
+      "name": "Chair_instance",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance16",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance17",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance18",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance19",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance20",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -0.38662
+      ],
+      "name": "Chair_instance23",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance28",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance29",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance30",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance31",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance32",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance33",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance34",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance35",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance36",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance37",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance38",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance39",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -0.77324
+      ],
+      "name": "Chair_instance40",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance42",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance43",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance44",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance45",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance46",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance47",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance48",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance49",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance50",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance51",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance52",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance53",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance54",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -1.15986
+      ],
+      "name": "Chair_instance55",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance56",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance57",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance58",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance59",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance60",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance61",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance62",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance63",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance64",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance65",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance66",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance67",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance68",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -1.54648
+      ],
+      "name": "Chair_instance69",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance70",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance71",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance72",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance73",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance74",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance75",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance76",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance77",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance78",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance79",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance80",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance81",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance82",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -1.9331
+      ],
+      "name": "Chair_instance83",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance84",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance85",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance86",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance87",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance88",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance89",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance90",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance91",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance92",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance93",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance94",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance95",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance96",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -2.31972
+      ],
+      "name": "Chair_instance97",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance98",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance99",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance100",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance101",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance102",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance103",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance104",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance105",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance106",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance107",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance108",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance109",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance110",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -2.70634
+      ],
+      "name": "Chair_instance111",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance112",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance113",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance114",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance115",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance116",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance117",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance118",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance119",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance120",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance121",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance122",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance123",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance124",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -3.09296
+      ],
+      "name": "Chair_instance125",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance126",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.23089999,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance127",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.461799979,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance128",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.692699969,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance129",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.923599958,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance130",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.15449989,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance131",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.38539994,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance132",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.6163,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance133",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        1.84719992,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance134",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.0781,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance135",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.30899978,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance136",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.5399,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance137",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.77079988,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance138",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.00170016,
+        0,
+        -3.47957754
+      ],
+      "name": "Chair_instance139",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -4.010756
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance140",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -4.241656
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance141",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -4.47255564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance142",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -4.703456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance143",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -4.93435574
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance144",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -5.16525555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance145",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -5.396156
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance146",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -5.62705564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance147",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -5.857956
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance148",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -6.08885527
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance149",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -6.31975555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance150",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -6.55065536
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance151",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -6.78155565
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance152",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -7.012456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance153",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.241734,
+        0,
+        -7.24335575
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance154",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -4.010756
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance155",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -4.241656
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance156",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -4.47255564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance157",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -4.703456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance158",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -4.93435574
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance159",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -5.16525555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance160",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -5.396156
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance161",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -5.62705564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance162",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -5.857956
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance163",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -6.08885527
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance164",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -6.31975555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance165",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -6.55065536
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance166",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -6.78155565
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance167",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -7.012456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance168",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.85764432,
+        0,
+        -7.24335575
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance169",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -4.010756
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance170",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -4.241656
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance171",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -4.47255564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance172",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -4.703456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance173",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -4.93435574
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance174",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -5.16525555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance175",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -5.396156
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance176",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -5.62705564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance177",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -5.857956
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance178",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -6.08885527
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance179",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -6.31975555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance180",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -6.55065536
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance181",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -6.78155565
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance182",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -7.012456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance183",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.47355437,
+        0,
+        -7.24335575
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance184",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -4.010756
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance185",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -4.241656
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance186",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -4.47255564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance187",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -4.703456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance188",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -4.93435574
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance189",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -5.16525555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance190",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -5.396156
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance191",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -5.62705564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance192",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -5.857956
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance193",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -6.08885527
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance194",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -6.31975555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance195",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -6.55065536
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance196",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -6.78155565
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance197",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -7.012456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance198",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        3.08946443,
+        0,
+        -7.24335575
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance199",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -4.010756
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance200",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -4.241656
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance201",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -4.47255564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance202",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -4.703456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance203",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -4.93435574
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance204",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -5.16525555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance205",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -5.396156
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance206",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -5.62705564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance207",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -5.857956
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance208",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -6.08885527
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance209",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -6.31975555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance210",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        2.70537448,
+        0,
+        -6.55065536
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance211",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -4.47255564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance217",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -4.703456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance218",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -4.93435574
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance219",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -5.16525555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance220",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -5.396156
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance221",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -5.62705564
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance222",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -5.857956
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance223",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -6.08885527
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance224",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -6.31975555
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance225",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -6.55065536
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance226",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -6.78155565
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance227",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -7.012456
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance228",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        4.625825,
+        0,
+        -7.24335575
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_instance229",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        0.0054906914,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance230",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -0.275903344,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance231",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -0.557299852,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance232",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -0.838696241,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance233",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -1.12009037,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance234",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -1.40148675,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance235",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -1.68288326,
+        0.118333936,
+        -10.0188532
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance236",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -5.46110344,
+        0.118333936,
+        -8.832476
+      ],
+      "name": "Chair_instance237",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -5.179509,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance238",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.898113,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance239",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.61671638,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance240",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.33532238,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance241",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.05392551,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance242",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -3.77252913,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance243",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -3.49113512,
+        0.118333936,
+        -8.831808
+      ],
+      "name": "Chair_instance244",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -0.7060449,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance245",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -0.9874389,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance246",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -1.26883543,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance247",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -1.55023193,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance248",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -1.83162594,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance249",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -2.11302233,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance250",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -2.394419,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance251",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -2.675813,
+        0,
+        -2.34308028
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        1.17145535e-15
+      ],
+      "name": "Chair_instance252",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -5.89104462,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance253",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -5.609648,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance254",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -5.328252,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance255",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -5.046858,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance256",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.76546144,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance257",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.484065,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance258",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 14,
+      "translation": [
+        -4.20267057,
+        0,
+        -1.15603459
+      ],
+      "name": "Chair_instance259",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336
+      ],
+      "name": "Chairs_B_22_new"
+    },
+    {
+      "mesh": 15,
+      "name": "Chair_291",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        8.391129,
+        0,
+        5.29493332
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_292",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        -0.00282958988,
+        0,
+        0.2420526
+      ],
+      "name": "Chair_293",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        -5.280793,
+        0,
+        8.59827
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_294",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        3.11319828,
+        0,
+        13.9166126
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        7.27366144e-16
+      ],
+      "name": "Chair_295",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        3.112379,
+        0,
+        13.6745605
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        7.27366144e-16
+      ],
+      "name": "Chair_296",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        8.106212,
+        0.04914154,
+        7.32381344
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_297",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        8.496173,
+        0.04914154,
+        7.32381344
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_298",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        -5.1757493,
+        0.04914154,
+        10.5272427
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_299",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        -5.56572866,
+        0.04914154,
+        10.5272427
+      ],
+      "rotation": [
+        0,
+        0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_300",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        2.53328371,
+        0.04914154,
+        4.354895
+      ],
+      "name": "Chair_301",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        2.53328371,
+        0.04914154,
+        4.079015
+      ],
+      "name": "Chair_302",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        3.4545238,
+        0.04914154,
+        4.079015
+      ],
+      "name": "Chair_303",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        3.4545238,
+        0.04914154,
+        4.354895
+      ],
+      "name": "Chair_304",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        5.64997673,
+        0.04914154,
+        18.0268364
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_305",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        5.64997673,
+        0.04914154,
+        17.7583828
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_306",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        6.571218,
+        0.04914154,
+        18.0268364
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_307",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        6.571218,
+        0.04914154,
+        17.7583828
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_308",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        13.4354143
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_309",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        13.667408
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_310",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        13.9020233
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_311",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        14.134017
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_312",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        14.3686323
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_313",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        14.6006269
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_314",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        14.8352423
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_315",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.78421,
+        0.04914154,
+        15.0672359
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_316",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        1.39267814
+      ],
+      "name": "Chair_317",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        1.16068482
+      ],
+      "name": "Chair_318",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        0.9260687
+      ],
+      "name": "Chair_319",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        0.6940753
+      ],
+      "name": "Chair_320",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        0.459459215
+      ],
+      "name": "Chair_321",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        0.227465808
+      ],
+      "name": "Chair_322",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        -0.007149658
+      ],
+      "name": "Chair_323",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        1.673363,
+        0.04914154,
+        -0.239143059
+      ],
+      "name": "Chair_324",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        9.539478,
+        0.0519775376,
+        2.97600555
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_325",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        9.850069,
+        0.0519775376,
+        2.97600555
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_326",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        9.850069,
+        0.0519775376,
+        2.22850251
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_327",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        9.539478,
+        0.0519775376,
+        2.22850251
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_328",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        4.223243,
+        -0.0006854248,
+        9.477235
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        -1.49307991e-15
+      ],
+      "name": "Chair_329",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        12.0129128,
+        0.04924957,
+        4.974934
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_330",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 15,
+      "translation": [
+        12.0129128,
+        0.04924957,
+        5.817185
+      ],
+      "rotation": [
+        0,
+        -0.707106769,
+        0,
+        0.707106769
+      ],
+      "name": "Chair_331",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 16,
+      "name": "Bathrms_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346
+      ],
+      "name": "Chairs_C_22_new"
+    },
+    {
+      "mesh": 17,
+      "name": "Chair_44",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        0.229019776,
+        0,
+        0
+      ],
+      "name": "Chair_332",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        0.458040774,
+        0,
+        0
+      ],
+      "name": "Chair_333",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        8.383713,
+        0,
+        20.06944
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_334",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        8.637202,
+        0,
+        20.06944
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_335",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        8.902815,
+        0,
+        20.06944
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_336",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        9.127644,
+        0,
+        20.06944
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_337",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 17,
+      "translation": [
+        9.393255,
+        0,
+        20.06944
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        5.05321539e-16
+      ],
+      "name": "Chair_338",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 18,
+      "name": "WINS_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 19,
+      "name": "CLT_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 20,
+      "name": "FLOORS_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 21,
+      "name": "Stairs_WC_9_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471
+      ],
+      "name": "Pillars_22"
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -0.707992554
+      ],
+      "name": "PILLS_21_thicker_instance1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -1.4159863
+      ],
+      "name": "PILLS_21_thicker_instance2",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -2.12397814
+      ],
+      "name": "PILLS_21_thicker_instance3",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -2.83197141
+      ],
+      "name": "PILLS_21_thicker_instance4",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -3.53996444
+      ],
+      "name": "PILLS_21_thicker_instance5",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.8477246,
+        0,
+        -4.05407238
+      ],
+      "name": "PILLS_21_thicker_instance6",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -1.45944548,
+        0,
+        -3.79428768
+      ],
+      "name": "PILLS_21_thicker_instance7",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -1.86283112,
+        0,
+        -4.04693127
+      ],
+      "name": "PILLS_21_thicker_instance8",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -3.57866454,
+        0,
+        -3.92613029
+      ],
+      "name": "PILLS_21_thicker_instance9",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -4.17098427,
+        0,
+        -3.97935724
+      ],
+      "name": "PILLS_21_thicker_instance10",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -6.452448
+      ],
+      "name": "PILLS_21_thicker_instance11",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.850802,
+        0,
+        -6.57981253
+      ],
+      "name": "PILLS_21_thicker_instance12",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -1.51055229,
+        0,
+        -7.260109
+      ],
+      "name": "PILLS_21_thicker_instance13",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.538689554,
+        0,
+        -9.365752
+      ],
+      "name": "PILLS_21_thicker_instance14",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.538689554,
+        0,
+        -11.2874289
+      ],
+      "name": "PILLS_21_thicker_instance15",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.538689554,
+        0,
+        -13.1097555
+      ],
+      "name": "PILLS_21_thicker_instance16",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.8491742,
+        0,
+        -14.4924288
+      ],
+      "name": "PILLS_21_thicker_instance17",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -14.3532391
+      ],
+      "name": "PILLS_21_thicker_instance18",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -15.7389441
+      ],
+      "name": "PILLS_21_thicker_instance19",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.8491742,
+        0,
+        -17.7656536
+      ],
+      "name": "PILLS_21_thicker_instance20",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -1.63293886,
+        0,
+        -19.638443
+      ],
+      "name": "PILLS_21_thicker_instance21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        0,
+        0,
+        -19.6305561
+      ],
+      "name": "PILLS_21_thicker_instance22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -0.217732534,
+        0,
+        -20.1995888
+      ],
+      "name": "PILLS_21_thicker_instance23",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -4.18277073,
+        0,
+        -18.459507
+      ],
+      "name": "PILLS_21_thicker_instance24",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.150546,
+        0,
+        -21.07054
+      ],
+      "name": "PILLS_21_thicker_instance25",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.54466534,
+        0,
+        -19.9310837
+      ],
+      "name": "PILLS_21_thicker_instance26",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.48526335,
+        0,
+        -18.4889488
+      ],
+      "name": "PILLS_21_thicker_instance27",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.981465,
+        0,
+        -18.3605614
+      ],
+      "name": "PILLS_21_thicker_instance28",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.97683764,
+        0,
+        -17.5656643
+      ],
+      "name": "PILLS_21_thicker_instance29",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.94180727,
+        0,
+        -16.7970047
+      ],
+      "name": "PILLS_21_thicker_instance30",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.898105,
+        0,
+        -4.58231449
+      ],
+      "name": "PILLS_21_thicker_instance31",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.92490625,
+        0,
+        -6.57763863
+      ],
+      "name": "PILLS_21_thicker_instance32",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.9152813,
+        0,
+        -7.90039158
+      ],
+      "name": "PILLS_21_thicker_instance33",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.94225168,
+        0,
+        -8.780181
+      ],
+      "name": "PILLS_21_thicker_instance34",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.90227652,
+        0,
+        -10.2072964
+      ],
+      "name": "PILLS_21_thicker_instance35",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.93456,
+        0,
+        -13.1349287
+      ],
+      "name": "PILLS_21_thicker_instance36",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -5.85202742,
+        0,
+        -0.879196763
+      ],
+      "name": "PILLS_21_thicker_instance37",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -8.127967,
+        0,
+        -0.08191894
+      ],
+      "name": "PILLS_21_thicker_instance38",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -7.7533946,
+        0,
+        -2.333507
+      ],
+      "name": "PILLS_21_thicker_instance39",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -8.265529,
+        0,
+        -3.20445848
+      ],
+      "name": "PILLS_21_thicker_instance40",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -7.765201,
+        0,
+        -4.404169
+      ],
+      "name": "PILLS_21_thicker_instance41",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -7.84107733,
+        3.81469718e-8,
+        -6.932992
+      ],
+      "name": "PILLS_21_thicker_instance42",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -7.75237656,
+        3.81469718e-8,
+        -7.57387543
+      ],
+      "name": "PILLS_21_thicker_instance43",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -10.0055017,
+        3.81469718e-8,
+        -2.981294
+      ],
+      "name": "PILLS_21_thicker_instance44",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -10.9233418,
+        3.81469718e-8,
+        -3.14549422
+      ],
+      "name": "PILLS_21_thicker_instance45",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.5577431,
+        3.81469718e-8,
+        -3.2969377
+      ],
+      "name": "PILLS_21_thicker_instance46",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.8659153,
+        3.81469718e-8,
+        -2.929386
+      ],
+      "name": "PILLS_21_thicker_instance47",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.8795528,
+        3.81469718e-8,
+        -4.393206
+      ],
+      "name": "PILLS_21_thicker_instance48",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.8795528,
+        3.81469718e-8,
+        -5.148353
+      ],
+      "name": "PILLS_21_thicker_instance49",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.8795528,
+        3.81469718e-8,
+        -6.39163
+      ],
+      "name": "PILLS_21_thicker_instance50",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.8795528,
+        3.81469718e-8,
+        -7.23186874
+      ],
+      "name": "PILLS_21_thicker_instance51",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "translation": [
+        -11.8795528,
+        3.81469718e-8,
+        -7.726086
+      ],
+      "name": "PILLS_21_thicker_instance52",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 22,
+      "name": "PILLS_21_thicker_instance",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        -1.17847347
+      ],
+      "name": "PILLS_21_thinner_instance1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        0,
+        0,
+        -2.9135015
+      ],
+      "name": "PILLS_21_thinner_instance2",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -1.093507,
+        0,
+        -3.23896527
+      ],
+      "name": "PILLS_21_thinner_instance3",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        -4.27068758
+      ],
+      "name": "PILLS_21_thinner_instance4",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -1.00225341,
+        0,
+        -4.545345
+      ],
+      "name": "PILLS_21_thinner_instance5",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        -5.80784
+      ],
+      "name": "PILLS_21_thinner_instance6",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -1.00825441,
+        0,
+        -5.993707
+      ],
+      "name": "PILLS_21_thinner_instance7",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        0,
+        0,
+        -6.52189875
+      ],
+      "name": "PILLS_21_thinner_instance8",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        0,
+        0,
+        -9.248624
+      ],
+      "name": "PILLS_21_thinner_instance9",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        0,
+        0,
+        -10.4945107
+      ],
+      "name": "PILLS_21_thinner_instance10",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        -13.9370461
+      ],
+      "name": "PILLS_21_thinner_instance11",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -1.0029248,
+        0,
+        -15.1808357
+      ],
+      "name": "PILLS_21_thinner_instance12",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        -17.25323
+      ],
+      "name": "PILLS_21_thinner_instance13",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -1.40380859,
+        0,
+        -17.3765335
+      ],
+      "name": "PILLS_21_thinner_instance14",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.9875781,
+        0,
+        -18.2085247
+      ],
+      "name": "PILLS_21_thinner_instance15",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -1.00127923,
+        0,
+        -18.8059254
+      ],
+      "name": "PILLS_21_thinner_instance16",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        -19.4592361
+      ],
+      "name": "PILLS_21_thinner_instance17",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        0,
+        0,
+        -19.74321
+      ],
+      "name": "PILLS_21_thinner_instance18",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -2.612669,
+        0,
+        -17.5280533
+      ],
+      "name": "PILLS_21_thinner_instance19",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -3.30419612,
+        0,
+        -18.2179375
+      ],
+      "name": "PILLS_21_thinner_instance20",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -3.07056379,
+        0,
+        -18.6367435
+      ],
+      "name": "PILLS_21_thinner_instance21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -3.63110948,
+        0,
+        -19.2501659
+      ],
+      "name": "PILLS_21_thinner_instance22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -3.39044333,
+        0,
+        -20.26391
+      ],
+      "name": "PILLS_21_thinner_instance23",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -5.044743,
+        0,
+        -17.8043461
+      ],
+      "name": "PILLS_21_thinner_instance24",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -5.90620852,
+        0,
+        -17.9560738
+      ],
+      "name": "PILLS_21_thinner_instance25",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -6.16749573,
+        0,
+        -19.31345
+      ],
+      "name": "PILLS_21_thinner_instance26",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        0,
+        0,
+        -17.0525417
+      ],
+      "name": "PILLS_21_thinner_instance27",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -5.939497,
+        0,
+        -14.9852524
+      ],
+      "name": "PILLS_21_thinner_instance28",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -5.22979069,
+        0,
+        -17.405405
+      ],
+      "name": "PILLS_21_thinner_instance29",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -6.052881,
+        0,
+        -10.8607931
+      ],
+      "name": "PILLS_21_thinner_instance30",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -6.10634136,
+        0,
+        -9.270462
+      ],
+      "name": "PILLS_21_thinner_instance31",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -5.512642,
+        0,
+        -6.04575348
+      ],
+      "name": "PILLS_21_thinner_instance32",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -6.10045576,
+        0,
+        -4.149895
+      ],
+      "name": "PILLS_21_thinner_instance33",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -4.77658558,
+        0,
+        -3.23896527
+      ],
+      "name": "PILLS_21_thinner_instance34",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "translation": [
+        -0.710869133,
+        0,
+        0.2629376
+      ],
+      "name": "PILLS_21_thinner_instance35",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 23,
+      "name": "PILLS_21_thinner_instance",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        0.431688845,
+        0,
+        1.62721312
+      ],
+      "name": "PILLS_21_medium_instance1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        1.04025567,
+        0,
+        1.91076529
+      ],
+      "name": "PILLS_21_medium_instance2",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        1.55970883,
+        0,
+        1.28871822
+      ],
+      "name": "PILLS_21_medium_instance3",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        2.7320528,
+        0,
+        1.16333735
+      ],
+      "name": "PILLS_21_medium_instance4",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        2.57673049,
+        0,
+        1.95181763
+      ],
+      "name": "PILLS_21_medium_instance5",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        2.97039032,
+        0,
+        -0.466341555
+      ],
+      "name": "PILLS_21_medium_instance6",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "translation": [
+        3.75263667,
+        0,
+        -0.133594975
+      ],
+      "name": "PILLS_21_medium_instance7",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "name": "PILLS_21_medium_instance8",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 24,
+      "name": "PILLS_21_medium_instance",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -0.262908,
+        0,
+        -1.24161863
+      ],
+      "name": "PILLS_21_midThin_instance1",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -2.921388,
+        0,
+        -0.468996584
+      ],
+      "name": "PILLS_21_midThin_instance2",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -2.37271786,
+        0,
+        -2.09344482
+      ],
+      "name": "PILLS_21_midThin_instance3",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -3.92190671,
+        0,
+        -0.9908642
+      ],
+      "name": "PILLS_21_midThin_instance4",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.20839453,
+        0,
+        -2.006996
+      ],
+      "name": "PILLS_21_midThin_instance5",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.919367,
+        0,
+        0.8878882
+      ],
+      "name": "PILLS_21_midThin_instance6",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.20842171,
+        0,
+        0.616228
+      ],
+      "name": "PILLS_21_midThin_instance7",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -3.48672724,
+        0,
+        2.01386714
+      ],
+      "name": "PILLS_21_midThin_instance8",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -3.924104,
+        0,
+        3.52866936
+      ],
+      "name": "PILLS_21_midThin_instance9",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.919367,
+        0,
+        4.26619244
+      ],
+      "name": "PILLS_21_midThin_instance10",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.919367,
+        0,
+        8.156674
+      ],
+      "name": "PILLS_21_midThin_instance11",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.919367,
+        0,
+        10.4508057
+      ],
+      "name": "PILLS_21_midThin_instance12",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -2.880368,
+        0,
+        11.0752993
+      ],
+      "name": "PILLS_21_midThin_instance13",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.20836353,
+        0,
+        12.4556751
+      ],
+      "name": "PILLS_21_midThin_instance14",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.02518368,
+        0,
+        13.4935369
+      ],
+      "name": "PILLS_21_midThin_instance15",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -3.76759815,
+        0,
+        14.709651
+      ],
+      "name": "PILLS_21_midThin_instance16",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.20836353,
+        0,
+        15.0661592
+      ],
+      "name": "PILLS_21_midThin_instance17",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -4.02234364,
+        0,
+        16.2016811
+      ],
+      "name": "PILLS_21_midThin_instance18",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        -3.16245961,
+        0,
+        16.6290016
+      ],
+      "name": "PILLS_21_midThin_instance19",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "translation": [
+        0.407324046,
+        0,
+        15.8400459
+      ],
+      "name": "PILLS_21_midThin_instance20",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 25,
+      "name": "PILLS_21_midThin_instance",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 26,
+      "name": "PILLS_21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 27,
+      "translation": [
+        0,
+        -0.09254143,
+        0
+      ],
+      "name": "PRO_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 28,
+      "name": "SOLS_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 29,
+      "name": "INS_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        476,
+        477
+      ],
+      "name": "Exteriors:WC_21"
+    },
+    {
+      "mesh": 30,
+      "name": "Exteriors:WC_Legs_21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        478,
+        479
+      ],
+      "name": "Exteriors:WC_9_21"
+    },
+    {
+      "mesh": 31,
+      "name": "Exteriors:WC_9_Big_Cube_21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 32,
+      "name": "Exteriors:WC_9_Small_Cube_21",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        481,
+        482,
+        484,
+        486,
+        488,
+        490,
+        492,
+        494,
+        496
+      ],
+      "name": "Exteriors:WC_22"
+    },
+    {
+      "mesh": 33,
+      "name": "Exteriors:WC_Legs_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        483
+      ],
+      "name": "Exteriors:WC_1_22"
+    },
+    {
+      "mesh": 34,
+      "name": "Exteriors:WC_1_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        485
+      ],
+      "name": "Exteriors:WC_2_22"
+    },
+    {
+      "mesh": 35,
+      "name": "Exteriors:WC_2_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        487
+      ],
+      "name": "Exteriors:WC_3_22"
+    },
+    {
+      "mesh": 36,
+      "name": "Exteriors:WC_3_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        489
+      ],
+      "name": "Exteriors:WC_4_22"
+    },
+    {
+      "mesh": 37,
+      "name": "Exteriors:WC_4_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        491
+      ],
+      "name": "Exteriors:WC_6_22"
+    },
+    {
+      "mesh": 38,
+      "name": "Exteriors:WC_6_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        493
+      ],
+      "name": "Exteriors:WC_7_22"
+    },
+    {
+      "mesh": 39,
+      "name": "Exteriors:WC_7_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        495
+      ],
+      "name": "Exteriors:WC_8_22"
+    },
+    {
+      "mesh": 40,
+      "name": "Exteriors:WC_8_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "children": [
+        497,
+        498
+      ],
+      "name": "Exteriors:WC_9_22"
+    },
+    {
+      "mesh": 41,
+      "name": "Exteriors:WC_9_Big_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    },
+    {
+      "mesh": 42,
+      "name": "Exteriors:WC_9_Small_Cube_22",
+      "extras": {
+        "currentUVSet": "map1"
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "TANGENT": 2,
+            "NORMAL": 3,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ],
+      "name": "Exteriors:CIRS_21"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "TANGENT": 7,
+            "NORMAL": 8,
+            "TEXCOORD_0": 9
+          },
+          "indices": 5,
+          "material": 1
+        }
+      ],
+      "name": "DOS_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 11,
+            "TANGENT": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 10,
+          "material": 2
+        }
+      ],
+      "name": "Sofa_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "TANGENT": 17,
+            "NORMAL": 18,
+            "TEXCOORD_0": 19
+          },
+          "indices": 15,
+          "material": 2
+        }
+      ],
+      "name": "Table_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 21,
+            "TANGENT": 22,
+            "NORMAL": 23,
+            "TEXCOORD_0": 24
+          },
+          "indices": 20,
+          "material": 3
+        }
+      ],
+      "name": "Chair_D_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 26,
+            "TANGENT": 27,
+            "NORMAL": 28,
+            "TEXCOORD_0": 29
+          },
+          "indices": 25,
+          "material": 4
+        }
+      ],
+      "name": "Tables_Big_22_new"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 31,
+            "TANGENT": 32,
+            "NORMAL": 33,
+            "TEXCOORD_0": 34
+          },
+          "indices": 30,
+          "material": 4
+        }
+      ],
+      "name": "Tables_small_22_instance"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 36,
+            "TANGENT": 37,
+            "NORMAL": 38,
+            "TEXCOORD_0": 39
+          },
+          "indices": 35,
+          "material": 4
+        }
+      ],
+      "name": "Tables_small_22_instance8"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 41,
+            "TANGENT": 42,
+            "NORMAL": 43,
+            "TEXCOORD_0": 44
+          },
+          "indices": 40,
+          "material": 4
+        }
+      ],
+      "name": "Tables_small_22_instance10"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 46,
+            "TANGENT": 47,
+            "NORMAL": 48,
+            "TEXCOORD_0": 49
+          },
+          "indices": 45,
+          "material": 4
+        }
+      ],
+      "name": "Tables_small_22_instance11"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 51,
+            "TANGENT": 52,
+            "NORMAL": 53,
+            "TEXCOORD_0": 54
+          },
+          "indices": 50,
+          "material": 4
+        }
+      ],
+      "name": "Tables_small_22_instance4"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 56,
+            "TANGENT": 57,
+            "NORMAL": 58,
+            "TEXCOORD_0": 59
+          },
+          "indices": 55,
+          "material": 5
+        }
+      ],
+      "name": "WheelChair11"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 61,
+            "TANGENT": 62,
+            "NORMAL": 63,
+            "TEXCOORD_0": 64
+          },
+          "indices": 60,
+          "material": 6
+        }
+      ],
+      "name": "Sofa"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 66,
+            "TANGENT": 67,
+            "NORMAL": 68,
+            "TEXCOORD_0": 69
+          },
+          "indices": 65,
+          "material": 6
+        }
+      ],
+      "name": "ArmChair3"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 71,
+            "TANGENT": 72,
+            "NORMAL": 73,
+            "TEXCOORD_0": 74
+          },
+          "indices": 70,
+          "material": 7
+        }
+      ],
+      "name": "Chair_instance"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 76,
+            "TANGENT": 77,
+            "NORMAL": 78,
+            "TEXCOORD_0": 79
+          },
+          "indices": 75,
+          "material": 7
+        }
+      ],
+      "name": "Chair_291"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 81,
+            "TANGENT": 82,
+            "NORMAL": 83,
+            "TEXCOORD_0": 84
+          },
+          "indices": 80,
+          "material": 8
+        }
+      ],
+      "name": "Bathrms_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 86,
+            "TANGENT": 87,
+            "NORMAL": 88,
+            "TEXCOORD_0": 89
+          },
+          "indices": 85,
+          "material": 7
+        }
+      ],
+      "name": "Chair_44"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 91,
+            "TANGENT": 92,
+            "NORMAL": 93,
+            "TEXCOORD_0": 94
+          },
+          "indices": 90,
+          "material": 9
+        }
+      ],
+      "name": "WINS_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 96,
+            "TANGENT": 97,
+            "NORMAL": 98,
+            "TEXCOORD_0": 99
+          },
+          "indices": 95,
+          "material": 10
+        }
+      ],
+      "name": "CLT_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 101,
+            "TANGENT": 102,
+            "NORMAL": 103,
+            "TEXCOORD_0": 104
+          },
+          "indices": 100,
+          "material": 3
+        }
+      ],
+      "name": "FLOORS_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 106,
+            "TANGENT": 107,
+            "NORMAL": 108,
+            "TEXCOORD_0": 109
+          },
+          "indices": 105,
+          "material": 11
+        }
+      ],
+      "name": "Stairs_WC_9_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 111,
+            "TANGENT": 112,
+            "NORMAL": 113,
+            "TEXCOORD_0": 114
+          },
+          "indices": 110,
+          "material": 12
+        }
+      ],
+      "name": "PILLS_21_thicker_instance1"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 116,
+            "TANGENT": 117,
+            "NORMAL": 118,
+            "TEXCOORD_0": 119
+          },
+          "indices": 115,
+          "material": 12
+        }
+      ],
+      "name": "PILLS_21_thinner_instance1"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 121,
+            "TANGENT": 122,
+            "NORMAL": 123,
+            "TEXCOORD_0": 124
+          },
+          "indices": 120,
+          "material": 12
+        }
+      ],
+      "name": "PILLS_21_medium_instance1"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 126,
+            "TANGENT": 127,
+            "NORMAL": 128,
+            "TEXCOORD_0": 129
+          },
+          "indices": 125,
+          "material": 12
+        }
+      ],
+      "name": "PILLS_21_midThin_instance1"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 131,
+            "TANGENT": 132,
+            "NORMAL": 133,
+            "TEXCOORD_0": 134
+          },
+          "indices": 130,
+          "material": 12
+        }
+      ],
+      "name": "PILLS_21"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 136,
+            "TANGENT": 137,
+            "NORMAL": 138,
+            "TEXCOORD_0": 139
+          },
+          "indices": 135,
+          "material": 11
+        }
+      ],
+      "name": "PRO_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 141,
+            "TANGENT": 142,
+            "NORMAL": 143,
+            "TEXCOORD_0": 144
+          },
+          "indices": 140,
+          "material": 13
+        }
+      ],
+      "name": "SOLS_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 146,
+            "TANGENT": 147,
+            "NORMAL": 148,
+            "TEXCOORD_0": 149
+          },
+          "indices": 145,
+          "material": 3
+        }
+      ],
+      "name": "INS_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 151,
+            "TANGENT": 152,
+            "NORMAL": 153,
+            "TEXCOORD_0": 154
+          },
+          "indices": 150,
+          "material": 12
+        }
+      ],
+      "name": "Exteriors:WC_Legs_21"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 156,
+            "TANGENT": 157,
+            "NORMAL": 158,
+            "TEXCOORD_0": 159
+          },
+          "indices": 155,
+          "material": 14
+        }
+      ],
+      "name": "Exteriors:WC_9_Big_Cube_21"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 161,
+            "TANGENT": 162,
+            "NORMAL": 163,
+            "TEXCOORD_0": 164
+          },
+          "indices": 160,
+          "material": 14
+        }
+      ],
+      "name": "Exteriors:WC_9_Small_Cube_21"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 166,
+            "TANGENT": 167,
+            "NORMAL": 168,
+            "TEXCOORD_0": 169
+          },
+          "indices": 165,
+          "material": 12
+        }
+      ],
+      "name": "Exteriors:WC_Legs_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 171,
+            "TANGENT": 172,
+            "NORMAL": 173,
+            "TEXCOORD_0": 174
+          },
+          "indices": 170,
+          "material": 15
+        }
+      ],
+      "name": "Exteriors:WC_1_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 176,
+            "TANGENT": 177,
+            "NORMAL": 178,
+            "TEXCOORD_0": 179
+          },
+          "indices": 175,
+          "material": 16
+        }
+      ],
+      "name": "Exteriors:WC_2_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 181,
+            "TANGENT": 182,
+            "NORMAL": 183,
+            "TEXCOORD_0": 184
+          },
+          "indices": 180,
+          "material": 17
+        }
+      ],
+      "name": "Exteriors:WC_3_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 186,
+            "TANGENT": 187,
+            "NORMAL": 188,
+            "TEXCOORD_0": 189
+          },
+          "indices": 185,
+          "material": 18
+        }
+      ],
+      "name": "Exteriors:WC_4_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 191,
+            "TANGENT": 192,
+            "NORMAL": 193,
+            "TEXCOORD_0": 194
+          },
+          "indices": 190,
+          "material": 19
+        }
+      ],
+      "name": "Exteriors:WC_6_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 196,
+            "TANGENT": 197,
+            "NORMAL": 198,
+            "TEXCOORD_0": 199
+          },
+          "indices": 195,
+          "material": 20
+        }
+      ],
+      "name": "Exteriors:WC_7_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 201,
+            "TANGENT": 202,
+            "NORMAL": 203,
+            "TEXCOORD_0": 204
+          },
+          "indices": 200,
+          "material": 21
+        }
+      ],
+      "name": "Exteriors:WC_8_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 206,
+            "TANGENT": 207,
+            "NORMAL": 208,
+            "TEXCOORD_0": 209
+          },
+          "indices": 205,
+          "material": 14
+        }
+      ],
+      "name": "Exteriors:WC_9_Big_Cube_22"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 211,
+            "TANGENT": 212,
+            "NORMAL": 213,
+            "TEXCOORD_0": 214
+          },
+          "indices": 210,
+          "material": 14
+        }
+      ],
+      "name": "Exteriors:WC_9_Small_Cube_22"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        7.148116,
+        2.12386966,
+        5.59961462
+      ],
+      "min": [
+        1.36245418,
+        1.7252593,
+        -11.08587
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 288,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 108,
+      "componentType": 5123,
+      "count": 6021,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 576,
+      "componentType": 5126,
+      "count": 2308,
+      "max": [
+        5.50246143,
+        4.23563576,
+        9.464779
+      ],
+      "min": [
+        -5.384013,
+        2.610769,
+        -9.540641
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 384,
+      "componentType": 5126,
+      "count": 2308,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28272,
+      "componentType": 5126,
+      "count": 2308,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 192,
+      "componentType": 5126,
+      "count": 2308,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12152,
+      "componentType": 5123,
+      "count": 384,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 55968,
+      "componentType": 5126,
+      "count": 184,
+      "max": [
+        3.52537465,
+        4.07357645,
+        3.18471622
+      ],
+      "min": [
+        2.90282583,
+        3.800059,
+        2.84525561
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37312,
+      "componentType": 5126,
+      "count": 184,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58176,
+      "componentType": 5126,
+      "count": 184,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 18656,
+      "componentType": 5126,
+      "count": 184,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12920,
+      "componentType": 5123,
+      "count": 264,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60384,
+      "componentType": 5126,
+      "count": 125,
+      "max": [
+        1.78236818,
+        4.07470655,
+        7.24677229
+      ],
+      "min": [
+        1.34062,
+        3.80082488,
+        6.66223145
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40256,
+      "componentType": 5126,
+      "count": 125,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61884,
+      "componentType": 5126,
+      "count": 125,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 20128,
+      "componentType": 5126,
+      "count": 125,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13448,
+      "componentType": 5123,
+      "count": 156,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 63384,
+      "componentType": 5126,
+      "count": 85,
+      "max": [
+        4.810342,
+        4.072615,
+        2.95544219
+      ],
+      "min": [
+        4.655815,
+        3.79883862,
+        2.80262113
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 42256,
+      "componentType": 5126,
+      "count": 85,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 64404,
+      "componentType": 5126,
+      "count": 85,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 21128,
+      "componentType": 5126,
+      "count": 85,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13760,
+      "componentType": 5123,
+      "count": 306,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 65424,
+      "componentType": 5126,
+      "count": 104,
+      "max": [
+        -2.278674,
+        4.123915,
+        -0.789479136
+      ],
+      "min": [
+        -4.61269569,
+        3.852147,
+        -1.17834115
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 43616,
+      "componentType": 5126,
+      "count": 104,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 66672,
+      "componentType": 5126,
+      "count": 104,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 21808,
+      "componentType": 5126,
+      "count": 104,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 14372,
+      "componentType": 5123,
+      "count": 294,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 67920,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        2.773601,
+        4.072574,
+        2.86980939
+      ],
+      "min": [
+        2.54032469,
+        3.80054927,
+        2.40415025
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45280,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 69648,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 22640,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 14960,
+      "componentType": 5123,
+      "count": 294,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71376,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        3.162649,
+        4.123916,
+        3.928139
+      ],
+      "min": [
+        2.53942871,
+        3.851891,
+        3.6948626
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47584,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 73104,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 23792,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15548,
+      "componentType": 5123,
+      "count": 294,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74832,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        3.32060528,
+        4.135585,
+        11.3077478
+      ],
+      "min": [
+        3.00901365,
+        3.86355948,
+        10.7642221
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 49888,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 76560,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 24944,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16136,
+      "componentType": 5123,
+      "count": 294,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 78288,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        3.22987056,
+        4.07257462,
+        6.71369362
+      ],
+      "min": [
+        2.99759769,
+        3.80054927,
+        6.48041725
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52192,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 80016,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 26096,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16724,
+      "componentType": 5123,
+      "count": 2058,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 81744,
+      "componentType": 5126,
+      "count": 1008,
+      "max": [
+        5.216323,
+        4.135585,
+        10.1914511
+      ],
+      "min": [
+        1.07795167,
+        3.80054927,
+        7.557808
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 54496,
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 93840,
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 27248,
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20840,
+      "componentType": 5123,
+      "count": 1998,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 105936,
+      "componentType": 5126,
+      "count": 646,
+      "max": [
+        5.180654,
+        4.20814466,
+        10.5109224
+      ],
+      "min": [
+        4.94213724,
+        3.85100627,
+        10.0867043
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 70624,
+      "componentType": 5126,
+      "count": 646,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 113688,
+      "componentType": 5126,
+      "count": 646,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 35312,
+      "componentType": 5126,
+      "count": 646,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24836,
+      "componentType": 5123,
+      "count": 228,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 121440,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        4.88593149,
+        4.096091,
+        3.34797788
+      ],
+      "min": [
+        4.50593853,
+        3.851052,
+        2.94210982
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 80960,
+      "componentType": 5126,
+      "count": 108,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 122736,
+      "componentType": 5126,
+      "count": 108,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 40480,
+      "componentType": 5126,
+      "count": 108,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 25292,
+      "componentType": 5123,
+      "count": 324,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 124032,
+      "componentType": 5126,
+      "count": 175,
+      "max": [
+        4.635013,
+        4.07497168,
+        8.295175
+      ],
+      "min": [
+        4.312566,
+        3.80316114,
+        7.96407
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 82688,
+      "componentType": 5126,
+      "count": 175,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 126132,
+      "componentType": 5126,
+      "count": 175,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 41344,
+      "componentType": 5126,
+      "count": 175,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 25940,
+      "componentType": 5123,
+      "count": 510,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 128232,
+      "componentType": 5126,
+      "count": 268,
+      "max": [
+        1.86565423,
+        4.15470362,
+        -0.8262818
+      ],
+      "min": [
+        1.63097167,
+        3.85196567,
+        -1.0310334
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 85488,
+      "componentType": 5126,
+      "count": 268,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 131448,
+      "componentType": 5126,
+      "count": 268,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 42744,
+      "componentType": 5126,
+      "count": 268,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 26960,
+      "componentType": 5123,
+      "count": 180,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 134664,
+      "componentType": 5126,
+      "count": 96,
+      "max": [
+        1.40304685,
+        4.11161661,
+        6.924916
+      ],
+      "min": [
+        1.21816647,
+        3.80010772,
+        6.74964237
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 89776,
+      "componentType": 5126,
+      "count": 96,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 135816,
+      "componentType": 5126,
+      "count": 96,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 44888,
+      "componentType": 5126,
+      "count": 96,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 27320,
+      "componentType": 5123,
+      "count": 11730,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 136968,
+      "componentType": 5126,
+      "count": 5977,
+      "max": [
+        0.814013064,
+        4.52542543,
+        11.2671967
+      ],
+      "min": [
+        -5.020365,
+        3.87989068,
+        1.1622839
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 91312,
+      "componentType": 5126,
+      "count": 5977,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 208692,
+      "componentType": 5126,
+      "count": 5977,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 45656,
+      "componentType": 5126,
+      "count": 5977,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50780,
+      "componentType": 5123,
+      "count": 150,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 280416,
+      "componentType": 5126,
+      "count": 84,
+      "max": [
+        4.42606068,
+        4.163171,
+        10.38713
+      ],
+      "min": [
+        4.23176861,
+        3.85135674,
+        10.1930752
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 186944,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 281424,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 93472,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 51080,
+      "componentType": 5123,
+      "count": 204,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 282432,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        5.677988,
+        4.22974968,
+        11.4434853
+      ],
+      "min": [
+        -5.35217047,
+        0.208431661,
+        -9.505277
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 188288,
+      "componentType": 5126,
+      "count": 136,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 284064,
+      "componentType": 5126,
+      "count": 136,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 94144,
+      "componentType": 5126,
+      "count": 136,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 51488,
+      "componentType": 5123,
+      "count": 42033,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 285696,
+      "componentType": 5126,
+      "count": 12774,
+      "max": [
+        5.9005456,
+        4.23610163,
+        11.4020863
+      ],
+      "min": [
+        -5.782133,
+        -0.132874042,
+        -9.733601
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 190464,
+      "componentType": 5126,
+      "count": 12774,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 438984,
+      "componentType": 5126,
+      "count": 12774,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 95232,
+      "componentType": 5126,
+      "count": 12774,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 135556,
+      "componentType": 5123,
+      "count": 186,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 592272,
+      "componentType": 5126,
+      "count": 84,
+      "max": [
+        5.574322,
+        3.96635461,
+        11.30807
+      ],
+      "min": [
+        -5.44865465,
+        1.86735773,
+        -9.758843
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 394848,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 593280,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 197424,
+      "componentType": 5126,
+      "count": 84,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 135928,
+      "componentType": 5123,
+      "count": 138,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 594288,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        0.166601688,
+        4.2339983,
+        -5.53582954
+      ],
+      "min": [
+        -0.9638177,
+        2.63198,
+        -7.358784
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 396192,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 595392,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 198096,
+      "componentType": 5126,
+      "count": 92,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 136204,
+      "componentType": 5123,
+      "count": 60,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 596496,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        6.59828854,
+        4.23563528,
+        9.192806
+      ],
+      "min": [
+        6.43328953,
+        0.6354706,
+        9.035882
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 397664,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 596760,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 198832,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 136324,
+      "componentType": 5123,
+      "count": 60,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 597024,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        6.73521233,
+        4.23563528,
+        7.87905455
+      ],
+      "min": [
+        6.612916,
+        0.6354706,
+        7.762744
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 398016,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 597288,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 199008,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 136444,
+      "componentType": 5123,
+      "count": 60,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 597552,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        -4.92661953,
+        4.23563528,
+        -11.8809042
+      ],
+      "min": [
+        -5.08405,
+        0.6354706,
+        -12.0306292
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 398368,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 597816,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 199184,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 136564,
+      "componentType": 5123,
+      "count": 60,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 598080,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        -1.56819236,
+        4.23563528,
+        -10.2944994
+      ],
+      "min": [
+        -1.69525576,
+        0.6354706,
+        -10.4153423
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 398720,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 598344,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 199360,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 136684,
+      "componentType": 5123,
+      "count": 300,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 598608,
+      "componentType": 5126,
+      "count": 110,
+      "max": [
+        -1.1594075,
+        4.23563528,
+        9.31800652
+      ],
+      "min": [
+        -6.48029947,
+        0.6354706,
+        7.866931
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 399072,
+      "componentType": 5126,
+      "count": 110,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 599928,
+      "componentType": 5126,
+      "count": 110,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 199536,
+      "componentType": 5126,
+      "count": 110,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 137284,
+      "componentType": 5123,
+      "count": 102,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 601248,
+      "componentType": 5126,
+      "count": 38,
+      "max": [
+        4.9535017,
+        1.88303769,
+        9.148115
+      ],
+      "min": [
+        1.559981,
+        0.326243579,
+        8.223574
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 400832,
+      "componentType": 5126,
+      "count": 38,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 601704,
+      "componentType": 5126,
+      "count": 38,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 200416,
+      "componentType": 5126,
+      "count": 38,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 137488,
+      "componentType": 5123,
+      "count": 1488,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 602160,
+      "componentType": 5126,
+      "count": 463,
+      "max": [
+        5.702204,
+        4.23563576,
+        11.4515648
+      ],
+      "min": [
+        -5.58245945,
+        0.231936634,
+        -8.985838
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 401440,
+      "componentType": 5126,
+      "count": 463,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 607716,
+      "componentType": 5126,
+      "count": 463,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 200720,
+      "componentType": 5126,
+      "count": 463,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 140464,
+      "componentType": 5123,
+      "count": 3264,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 613272,
+      "componentType": 5126,
+      "count": 1278,
+      "max": [
+        5.670952,
+        4.23563528,
+        12.6026583
+      ],
+      "min": [
+        -5.539135,
+        0.103855893,
+        -7.47993374
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 408848,
+      "componentType": 5126,
+      "count": 1278,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 628608,
+      "componentType": 5126,
+      "count": 1278,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 204424,
+      "componentType": 5126,
+      "count": 1278,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 146992,
+      "componentType": 5123,
+      "count": 3960,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 643944,
+      "componentType": 5126,
+      "count": 1452,
+      "max": [
+        5.133689,
+        2.610769,
+        8.314693
+      ],
+      "min": [
+        -5.21771765,
+        -0.06328342,
+        -9.246893
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 429296,
+      "componentType": 5126,
+      "count": 1452,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 661368,
+      "componentType": 5126,
+      "count": 1452,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 214648,
+      "componentType": 5126,
+      "count": 1452,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 154912,
+      "componentType": 5123,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 678792,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.166601688,
+        2.610769,
+        -5.5304327
+      ],
+      "min": [
+        -0.9640507,
+        0.232693478,
+        -7.361936
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 452528,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 678984,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 226264,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 154960,
+      "componentType": 5123,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 679176,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        -0.3271523,
+        2.610769,
+        -6.051852
+      ],
+      "min": [
+        -0.450408459,
+        0.2330484,
+        -6.86820555
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 452784,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 679368,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 226392,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 155008,
+      "componentType": 5123,
+      "count": 3960,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 679560,
+      "componentType": 5126,
+      "count": 1452,
+      "max": [
+        5.133689,
+        3.47183943,
+        8.314693
+      ],
+      "min": [
+        -5.21771765,
+        2.61076832,
+        -9.246893
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 453040,
+      "componentType": 5126,
+      "count": 1452,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 696984,
+      "componentType": 5126,
+      "count": 1452,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 226520,
+      "componentType": 5126,
+      "count": 1452,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 162928,
+      "componentType": 5123,
+      "count": 108,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 714408,
+      "componentType": 5126,
+      "count": 44,
+      "max": [
+        -0.387657076,
+        4.23563528,
+        -7.67182732
+      ],
+      "min": [
+        -4.75670576,
+        3.41995716,
+        -9.766261
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 476272,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 714936,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 238136,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163144,
+      "componentType": 5123,
+      "count": 108,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 715464,
+      "componentType": 5126,
+      "count": 44,
+      "max": [
+        -1.52528453,
+        4.23563576,
+        -0.03971654
+      ],
+      "min": [
+        -5.570838,
+        3.30321932,
+        -6.13316631
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 476976,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 715992,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 238488,
+      "componentType": 5126,
+      "count": 44,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163360,
+      "componentType": 5123,
+      "count": 30,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 716520,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        -1.58080745,
+        4.23563528,
+        5.40795
+      ],
+      "min": [
+        -5.266488,
+        3.14757133,
+        0.902949035
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 477680,
+      "componentType": 5126,
+      "count": 20,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 716760,
+      "componentType": 5126,
+      "count": 20,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 238840,
+      "componentType": 5126,
+      "count": 20,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163420,
+      "componentType": 5123,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 717000,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        -2.34336185,
+        4.23563528,
+        9.365183
+      ],
+      "min": [
+        -5.56897449,
+        3.26820064,
+        6.45161247
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 478000,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 717192,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 239000,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163468,
+      "componentType": 5123,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 717384,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        5.55647039,
+        4.240799,
+        9.335977
+      ],
+      "min": [
+        0.779216051,
+        3.120327,
+        5.42793036
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 478256,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 717576,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 239128,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163516,
+      "componentType": 5123,
+      "count": 30,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 717768,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        5.06452847,
+        4.240799,
+        4.89583731
+      ],
+      "min": [
+        2.15347171,
+        3.26431084,
+        2.16510916
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 478512,
+      "componentType": 5126,
+      "count": 20,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 718008,
+      "componentType": 5126,
+      "count": 20,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 239256,
+      "componentType": 5126,
+      "count": 20,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163576,
+      "componentType": 5123,
+      "count": 108,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 718248,
+      "componentType": 5126,
+      "count": 55,
+      "max": [
+        5.566716,
+        4.240799,
+        1.39334619
+      ],
+      "min": [
+        0.815083444,
+        2.99192142,
+        -9.037659
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 478832,
+      "componentType": 5126,
+      "count": 55,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 718908,
+      "componentType": 5126,
+      "count": 55,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 239416,
+      "componentType": 5126,
+      "count": 55,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163792,
+      "componentType": 5123,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 719568,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.166601688,
+        4.240799,
+        -5.5304327
+      ],
+      "min": [
+        -0.9640507,
+        2.610769,
+        -7.361936
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 479712,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 719760,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 239856,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163840,
+      "componentType": 5123,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 719952,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        -0.3271523,
+        4.240799,
+        -6.051852
+      ],
+      "min": [
+        -0.450408459,
+        2.610769,
+        -6.86820555
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 479968,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 720144,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 239984,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 163888,
+      "name": "bufferViewScalar"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 163888,
+      "byteLength": 720336,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 884224,
+      "byteLength": 480224,
+      "byteStride": 16,
+      "name": "bufferViewFloatVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1364448,
+      "byteLength": 240112,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Expo_22_data.bin",
+      "byteLength": 1604560
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:Circles",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.68
+      },
+      "normalTexture": {
+        "index": 1
+      },
+      "name": "DOS_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.450053632
+      },
+      "name": "lambert2"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.82
+      },
+      "name": "WOOD_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "name": "WOOD_Tables"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "roughnessFactor": 0.33,
+        "metallicRoughnessTexture": {
+          "index": 6
+        }
+      },
+      "name": "WCHAIR_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "name": "WOODCOL_Sofas"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 8
+        },
+        "roughnessFactor": 0.33,
+        "metallicRoughnessTexture": {
+          "index": 9
+        }
+      },
+      "name": "CHAIRS_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.34
+      },
+      "name": "Bathrms"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5176,
+          0.658800066,
+          0.8,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.1
+      },
+      "name": "GLASS"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 10
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.82
+      },
+      "name": "StingrayPBS15"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 11
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "name": "WOOD_Bright"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.615,
+          0.420380652,
+          0.200489983,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.82
+      },
+      "name": "Pillars_PBS"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 14
+        },
+        "metallicRoughnessTexture": {
+          "index": 13
+        }
+      },
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 13
+      },
+      "name": "SolarPanelsSmaller"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 15
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_9",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 16
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_1",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 17
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_2",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 18
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_3",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_4",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 20
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_6",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 21
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_7",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.33
+      },
+      "alphaMode": "MASK",
+      "name": "Exteriors:WC_8",
+      "extras": {
+        "use_opacity_map": {
+          "resultType": 5,
+          "stringResult": ""
+        },
+        "TEX_mask_map": {
+          "resultType": 6,
+          "stringResult": ""
+        },
+        "mask_threshold": {
+          "resultType": 5,
+          "stringResult": ""
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "circles_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "DOS_normal_2K.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "DOS_texture_2K.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "WOOD_texture_Floors22.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 4,
+      "name": "wood_color_dar2.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 5,
+      "name": "WheelChairs_texture.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 6,
+      "name": "84file21.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
+      "name": "wood_color_dar3.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 8,
+      "name": "Chairs_texture.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 9,
+      "name": "84file19.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 10,
+      "name": "WOOD_texture_2K_tiled_CLT_22.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 11,
+      "name": "wood_color_bric.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 12,
+      "name": "Substance_graph_normal.png"
+    },
+    {
+      "sampler": 0,
+      "source": 13,
+      "name": "file165file164file163.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 14,
+      "name": "Substance_graph_basecolor.png"
+    },
+    {
+      "sampler": 0,
+      "source": 15,
+      "name": "rWC_9_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 16,
+      "name": "rWC_1_alpha_test.png"
+    },
+    {
+      "sampler": 0,
+      "source": 17,
+      "name": "rWC_2_Big_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 18,
+      "name": "rWC_3_Big_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 19,
+      "name": "rWC_4_Big_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 20,
+      "name": "rWC_6_Big_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 21,
+      "name": "rWC_7_Big_alpha.png"
+    },
+    {
+      "sampler": 0,
+      "source": 22,
+      "name": "rWC_8_Big_alpha.png"
+    }
+  ],
+  "images": [
+    {
+      "uri": "Expo_22_img0.png"
+    },
+    {
+      "uri": "Expo_22_img1.jpg"
+    },
+    {
+      "uri": "Expo_22_img2.jpg"
+    },
+    {
+      "uri": "Expo_22_img3.jpg"
+    },
+    {
+      "uri": "Expo_22_img4.jpg"
+    },
+    {
+      "uri": "Expo_22_img5.jpg"
+    },
+    {
+      "uri": "Expo_22_img6.jpg"
+    },
+    {
+      "uri": "Expo_22_img7.jpg"
+    },
+    {
+      "uri": "Expo_22_img8.jpg"
+    },
+    {
+      "uri": "Expo_22_img9.jpg"
+    },
+    {
+      "uri": "Expo_22_img10.jpg"
+    },
+    {
+      "uri": "Expo_22_img11.jpg"
+    },
+    {
+      "uri": "Expo_22_img12.png"
+    },
+    {
+      "uri": "Expo_22_img13.jpg"
+    },
+    {
+      "uri": "Expo_22_img14.png"
+    },
+    {
+      "uri": "Expo_22_img15.png"
+    },
+    {
+      "uri": "Expo_22_img16.png"
+    },
+    {
+      "uri": "Expo_22_img17.png"
+    },
+    {
+      "uri": "Expo_22_img18.png"
+    },
+    {
+      "uri": "Expo_22_img19.png"
+    },
+    {
+      "uri": "Expo_22_img20.png"
+    },
+    {
+      "uri": "Expo_22_img21.png"
+    },
+    {
+      "uri": "Expo_22_img22.png"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ]
+}
