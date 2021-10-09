@@ -224,7 +224,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/Sysaqua/Sysaqua-Expo_normal_512.png"
   },
   {
-    "revision": "bd58125c90a159f73c34c3eb9698fef1",
+    "revision": "21a75ef8795d766cc5cca167153f6604",
     "url": "/assets/cloud10.png"
   },
   {
@@ -512,11 +512,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cb105d000ee7da1d4022bf2061eda0b3.glb"
   },
   {
-    "revision": "03043ace0eeb79082dcf",
+    "revision": "65d63b06293adf44b764",
     "url": "/css/app.css"
   },
   {
-    "revision": "ca3b1d973d643f55b4f5",
+    "revision": "acf01c5d1991e19365ad",
     "url": "/css/chunk-vendors.css"
   },
   {
@@ -524,11 +524,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/index.html"
   },
   {
-    "revision": "03043ace0eeb79082dcf",
+    "revision": "65d63b06293adf44b764",
     "url": "/js/app.js"
   },
   {
-    "revision": "ca3b1d973d643f55b4f5",
+    "revision": "acf01c5d1991e19365ad",
     "url": "/js/chunk-vendors.js"
   },
   {
